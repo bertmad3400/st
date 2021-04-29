@@ -7,7 +7,7 @@
  */
 /* static char *font = "mono:pixelsize=12:antialias=true:autohint=true"; */
 static char *font = "Comic Mono:pixelsize=16:style=Normal:antialias=true:autohint=true";
-static int borderpx = 2;
+static int borderpx = 4;
 
 /*
  * What program is execed by st depends of these precedence rules:
